@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+# Others
+.idea
+.env
+bucket-credential.json
+.pgdata
+.devcontainer
